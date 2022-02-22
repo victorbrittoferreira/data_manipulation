@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+to_be_review/
+reviewed/
+material/
 .Python
 build/
 develop-eggs/
@@ -127,3 +130,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Cartilha Métodos Pandas.pdf
+Customising.zip
+material/P87-Section-2-Dataset-Basics-Resources.zip
+P87-S2-Dataset-Basics-Resources/heart.pkl
+P87-S2-Dataset-Basics-Resources/save.pkl
+P87-S2-Dataset-Basics-Resources/Section 2 - Extra Example Resources/example.pkl
+reviewed/P87-Section-2-Dataset-Basics-Resources.zip
+reviewed/P87-Section-3-Visual-Exploration-Resources.zip
+to_be_review/P87-Section-4-Basic-Data-Manipulations-Resources.zip
+to_be_review/P87-Section-5-Grouping-Resources.zip
+to_be_review/P87-Section-6-Merging-Resources.zip
+to_be_review/P87-Section-7-Advanced-Manipulation-Resources.zip
+to_be_review/P87-Section-8-Time-Series-Resources.zip
+to_be_review/P87-Section-9-Conclusion-Resources.zip
+P87-S2-Dataset-Basics-Resources/Section 2 - Extra Example Resources/Answers.ipynb
+reviewing/P87-S4-Basic-Data-Manipulations-Resources/Section 4 - Extra Example Resources/Answers.ipynb
+.gitignore
