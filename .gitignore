@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 to_be_review/
-reviewed/
+
 material/
 .Python
 build/
